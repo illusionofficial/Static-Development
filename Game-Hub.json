@@ -170,4 +170,13 @@
 		"Creator": "Splooshy",
 		"Thumbnail": "https://media.discordapp.net/attachments/872862464142868530/888597574267842620/4e0ab4be92e38c3428de29ad298fa601.png"
 	},
+        {
+		"Id": 20,
+		"Title": "Static Hub",
+		"Description": "Static's custom hub with many games!",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NovalineDev/Static-Hub/main/StaticHubLoader.lua'))()",
+		"Creator": "SirWeeb",
+		"Thumbnail": "https://cdn.upload.systems/uploads/fYTnFRQg.png"
+	},
 ]
