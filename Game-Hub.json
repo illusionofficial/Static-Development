@@ -179,4 +179,13 @@
 		"Creator": "SirWeeb",
 		"Thumbnail": "https://cdn.upload.systems/uploads/fYTnFRQg.png"
 	},
+	{
+		"Id": 21,
+		"Title": "Blox Sense",
+		"Description": "OP Hub for fps games and more",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https://pastebin.com/raw/MeTcsz2E'))()",
+		"Creator": "iCyphy",
+		"Thumbnail": "https://media.discordapp.net/attachments/872820742205620265/892338090054647858/unknown.png"
+	},
 ]
