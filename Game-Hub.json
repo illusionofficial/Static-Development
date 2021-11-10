@@ -161,4 +161,13 @@
 		"Creator": "Ethanoj",
 		"Thumbnail": "https://t3.rbxcdn.com/56cdbb2a0a764667467d6f050c65367f"
 	},
+        {
+		"Id": 19,
+		"Title": "Imperium",
+		"Description": "Imperium Jailbreak auto rob",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Splooshhy/PantherHub/main/AutoArrest'))()",
+		"Creator": "Splooshy",
+		"Thumbnail": "https://media.discordapp.net/attachments/872862464142868530/888597574267842620/4e0ab4be92e38c3428de29ad298fa601.png"
+	},
 ]
