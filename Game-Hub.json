@@ -191,7 +191,7 @@
 	{
 		"Id": 22,
 		"Title": "Swag Mode",
-		"Description": "#1 free da hood script",
+		"Description": "#1 Free Da Hood Script",
 		"Type": "Hub",
 		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()",
 		"Creator": "Unknown",
