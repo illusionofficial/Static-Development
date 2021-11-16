@@ -188,4 +188,13 @@
 		"Creator": "iCyphy",
 		"Thumbnail": "https://media.discordapp.net/attachments/872820742205620265/892338090054647858/unknown.png"
 	},
+	{
+		"Id": 22,
+		"Title": "Swag Mode",
+		"Description": "#1 free da hood script",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/907780974111252512/910231222549090314/images.png"
+	},
 ]
