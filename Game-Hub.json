@@ -192,9 +192,18 @@
 		"Id": 22,
 		"Title": "Swag Mode",
 		"Description": "#1 Free Da Hood Script",
-		"Type": "Hub",
+		"Type": "Script",
 		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()",
 		"Creator": "Unknown",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/907780974111252512/910231222549090314/images.png"
+	},
+	{
+		"Id": 23,
+		"Title": "Shark Bite",
+		"Description": "OP GUI for Shark Bite",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LOOF-sys/Roblox-Shit/main/SharkBite.lua'))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/907780974111252512/913506292839096391/roblox-sharkbite.png"
 	},
 ]
