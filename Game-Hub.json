@@ -218,7 +218,7 @@
 	{
 		"Id": 25,
 		"Title": "A Universal Time | OP GUI, Teleports & MORE",
-		"Description": "Evil Hub Blox Fruits",
+		"Description": "A Universal Time hub with many features!",
 		"Type": "Hub",
 		"Script": "loadstring(game:HttpGet('https:\/\/raw.githubusercontent.com\/GodClass\/EpicScripts\/main\/AUT%20GUI'))()",
 		"Creator": "GodClass",
@@ -232,5 +232,14 @@
 		"Script": "loadstring(game:HttpGet(\"https:\/\/pastebin.com\/raw\/AUyJnK2Z\"))()",
 		"Creator": "Unknown",
 		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/Capture-150x150.png"
+	},
+	{
+		"Id": 27,
+		"Title": "A Universal Time | Auto Eat, Auto Sell & MORE,
+		"Description": "Auto Eat, Auto Sell + More for A Universal Time",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/sannin9000\/scripts\/main\/aut.lua\"))()",
+		"Creator": "sannin9000",
+		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/RobloxPlayerBeta_T7jOR7ftBU.png-150x150.webp"
 	},
 ]
