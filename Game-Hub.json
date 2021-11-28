@@ -224,4 +224,13 @@
 		"Creator": "GodClass",
 		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/unknown-150x150.png"
 	},
+	{
+		"Id": 26,
+		"Title": "Defender Depot | Auto Fight, Auto Box & MORE",
+		"Description": "Defender Depot Hub",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(\"https:\/\/pastebin.com\/raw\/AUyJnK2Z\"))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/Capture-150x150.png"
+	},
 ]
