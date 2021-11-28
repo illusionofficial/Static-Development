@@ -206,4 +206,22 @@
 		"Creator": "Unknown",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/907780974111252512/913506292839096391/roblox-sharkbite.png"
 	},
+	{
+		"Id": 24,
+		"Title": "Blox Fruit | EVIL HUB | AUTO FARM & MORE",
+		"Description": "Evil Hub Blox Fruits",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https:\/\/raw.githubusercontent.com\/Natthawat69\/EvilHub-FREE\/main\/Script.lua'))()",
+		"Creator": "Natthawat69",
+		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/unknown-4-150x150.png"
+	},
+	{
+		"Id": 25,
+		"Title": "A Universal Time | OP GUI, Teleports & MORE",
+		"Description": "Evil Hub Blox Fruits",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet('https:\/\/raw.githubusercontent.com\/GodClass\/EpicScripts\/main\/AUT%20GUI'))()",
+		"Creator": "GodClass",
+		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/unknown-150x150.png"
+	},
 ]
