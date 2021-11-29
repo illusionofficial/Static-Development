@@ -242,4 +242,31 @@
 		"Creator": "sannin9000",
 		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/RobloxPlayerBeta_T7jOR7ftBU.png-150x150.webp"
 	},
+	{
+		"Id": 28,
+		"Title": "BedWars GUI | Kill Aura, Bed Nuke & MORE",
+		"Description": "Kill Aura, Bed Nuke & MORE",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/7GrandDadPGN\/VapeV4ForRoblox\/main\/NewMainScript.lua\", true))()",
+		"Creator": "7GrandDadPGN",
+		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/09\/RobloxPlayerBeta_qYDAiFoWhN-768x392-1-150x150.png"
+	},
+	{
+		"Id": 29,
+		"Title": "Zombie Simulator | Auto Eat, Auto Sell & MORE",
+		"Description": "Auto Eat, Auto Sell & MORE",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/sleazy112\/Zombie-sim\/main\/Script\"))();",
+		"Creator": "sleazy112",
+		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/08\/Capture-15-150x150.png"
+	},
+	{
+		"Id": 30,
+		"Title": "Anime Fighting Simulator | Auto Boss, Auto Farm & MORE",
+		"Description": "Auto Boss, Auto Farm & MORE",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(\"https:\/\/pastebin.com\/raw\/wDFFk3J6\"))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https:\/\/rbxscripts.xyz\/wp-content\/uploads\/2021\/08\/Capture-14-150x150.png"
+	},
 ]
