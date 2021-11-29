@@ -235,7 +235,7 @@
 	},
 	{
 		"Id": 27,
-		"Title": "A Universal Time | Auto Eat, Auto Sell & MORE,
+		"Title": "A Universal Time | Auto Eat, Auto Sell & MORE",
 		"Description": "Auto Eat, Auto Sell + More for A Universal Time",
 		"Type": "Hub",
 		"Script": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/sannin9000\/scripts\/main\/aut.lua\"))()",
