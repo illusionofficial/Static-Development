@@ -278,4 +278,13 @@
 		"Creator": "XTheMasterX",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/907780974111252512/914880202797109258/81297e38d5980b28b600fcf99ebc361f.png"
 	},
+	{
+		"Id": 32,
+		"Title": "Funky Friday | Auto Player",
+		"Description": "Advanced auto player for Funky Friday",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua'),true))()",
+		"Creator": "wally",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/924682446493085730/924691637303648266/hq720.png"
+	},
 ]
