@@ -302,7 +302,7 @@
 		"Description": "Aimbot for Dunking Simulator",
 		"Type": "Script",
 		"Script": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/illusionofficial/Dunking-Script/main/README.md'),true))()",
-		"Creator": "Unknown",
+		"Creator": "LegendHandlesYT",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/924682446493085730/934784827490725938/Png.png"
 	},
 	
