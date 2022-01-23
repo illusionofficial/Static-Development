@@ -287,5 +287,14 @@
 		"Creator": "wally",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/924682446493085730/924691637303648266/hq720.png"
 	},
+	{
+		"Id": 33,
+		"Title": "Hoopz Hub | Aimbot",
+		"Description": "Awesome Hub for Hoopz",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/MrGCurry/V.2-published-free/main/Hoopz%20premium%20published%20free'),true))()",
+		"Creator": "Mr Curry",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/924682446493085730/934772270495305738/Png.png"
+	},
 	
 ]
