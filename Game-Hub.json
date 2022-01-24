@@ -305,5 +305,14 @@
 		"Creator": "LegendHandlesYT",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/924682446493085730/934784827490725938/Png.png"
 	},
+	{
+		"Id": 35,
+		"Title": "Age Of Heroes v4",
+		"Description": "Autofarm, Troll Options, Undetected And More!!r",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet(('https://pastebin.com/raw/JsKYEtSV'),true))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/905448559858577499/930248387817771058/unknown.png"
+	},
 	
 ]
