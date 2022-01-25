@@ -308,7 +308,7 @@
 	{
 		"Id": 35,
 		"Title": "Age Of Heroes v4",
-		"Description": "Autofarm, Troll Options, Undetected And More!!r",
+		"Description": "Autofarm, Troll Options, Undetected And More!",
 		"Type": "Script",
 		"Script": "loadstring(game:HttpGet(('https://pastebin.com/raw/JsKYEtSV'),true))()",
 		"Creator": "Unknown",
