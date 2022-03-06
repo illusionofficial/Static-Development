@@ -323,5 +323,14 @@
 		"Creator": "jprocks101",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/941411636386885692/947676231279726642/script_155615604-1645933461378.png"
 	},
+	{
+		"Id": 37,
+		"Title": "Evo V2",
+		"Description": "OP Hub with many supported games",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(('https://projectevo.xyz/script/loader.lua'),true))()",
+		"Creator": "Evo Development",
+		"Thumbnail": "https://scriptblox.com/images/script_1058911-1645441044790.jpg"
+	},
 	
 ]
