@@ -314,5 +314,14 @@
 		"Creator": "Unknown",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/905448559858577499/930248387817771058/unknown.png"
 	},
+	{
+		"Id": 36,
+		"Title": "Jez Hub",
+		"Description": "Many supported games, like Prison Life!",
+		"Type": "Hub",
+		"Script": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/jprocks101/JezHub/main/JezHub%20Script'),true))()",
+		"Creator": "jprocks101",
+		"Thumbnail": "https://cdn.discordapp.com/attachments/941411636386885692/947676231279726642/script_155615604-1645933461378.png"
+	},
 	
 ]
