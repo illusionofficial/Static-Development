@@ -330,7 +330,7 @@
 		"Type": "Hub",
 		"Script": "loadstring(game:HttpGet(('https://projectevo.xyz/script/loader.lua'),true))()",
 		"Creator": "Evo Development",
-		"Thumbnail": "https://scriptblox.com/images/script_1058911-1645441044790.jpg"
+		"Thumbnail": "https://cdn.discordapp.com/attachments/947909052833362021/950490657628237844/maxresdefault.png"
 	},
 	
 ]
