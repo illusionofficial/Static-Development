@@ -332,5 +332,13 @@
 		"Creator": "Evo Development",
 		"Thumbnail": "https://cdn.discordapp.com/attachments/947909052833362021/950490657628237844/maxresdefault.png"
 	},
-	
+	{
+		"Id": 38,
+		"Title": "Simple Spy",
+		"Description": "Utility script used to log remote calls",
+		"Type": "Script",
+		"Script": "loadstring(game:HttpGet(('https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua'),true))()",
+		"Creator": "Unknown",
+		"Thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FTnYfwL1.png"
+	},
 ]
