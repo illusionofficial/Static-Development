@@ -1,0 +1,18 @@
+{
+  "Loader": {
+   "Image": "https://i.pinimg.com/736x/20/5f/45/205f456aa1faecf8eb9588ab2dc0b737.jpg",
+   "Opacity": 0.1
+  },
+  "MainWindow": {
+   "Image": "https://i.pinimg.com/originals/22/e1/85/22e185ea07628c79a4f586d99c8fd454.png",
+   "Opacity": 0.1
+  },
+  "Icon": {
+    "Image": "https://cdn.discordapp.com/attachments/955569808794087484/970027385464434689/logo.png",
+    "Opacity": 0.1
+  },
+  "Title": {
+   "MainWindow": "Synapse X - Main Window",
+   "Loader": "Synapse X - Loader"
+  },
+}
