@@ -1,12 +1,4 @@
 {
-  "Loader": {
-   "Image": "",
-   "Opacity": 1.0
-  },
-  "MainWindow": {
-   "Image": "",
-   "Opacity": 1.0
-  },
   "Icon": {
     "Image": "https://cdn.discordapp.com/attachments/955569808794087484/970667271041216522/staticnew.png",
     "Opacity": 1.0
