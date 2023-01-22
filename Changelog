@@ -1,11 +1,15 @@
 --Version 3.0 Changelog--
 
 -Released
+-Bug Fixes
 
 --Version 3.1 Changelog--
 
+-New website
 -Added a new console
 -Added changelog system
 -Massive bug fixes
 -Fixed resizing issue
 -Fixed Global scripts causing the user interace to lag
+-Press enter to search scripts, this will reduce lag
+-Static will now check if you are using the correct version or not when injecting
