@@ -1,0 +1,7 @@
+--Version 3.1 Changelog--
+
+-Added a new console
+-Added changelog system
+-Massive bug fixes
+-Fixed resizing issue
+-Fixed Global scripts causing the user interace to lag
