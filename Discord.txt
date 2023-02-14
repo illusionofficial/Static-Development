@@ -1,6 +1,6 @@
 {
    "args" : {
-      "code" : "T3s2RSUJBW"
+      "code" : "7A66mfZPN4"
    },
    "cmd" : "INVITE_BROWSER",
    "nonce" : "."
